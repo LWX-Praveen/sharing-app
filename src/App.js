@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <ImageShareComponent pageURL={"http://localhost:3000/post?id=1"} />
-       <ImageShareComponent pageURL={"http://localhost:3000/post?id=2"} />
+       <ImageShareComponent pageURL={"https://sharing-app-lzgr.onrender.com/post?id=1"} />
+       <ImageShareComponent pageURL={"https://sharing-app-lzgr.onrender.com/post?id=2"} />
       </header>
     </div>
   );
