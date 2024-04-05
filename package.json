@@ -1,6 +1,7 @@
 {
   "name": "sharing-app",
   "version": "0.1.0",
+  "author": "Praveen Kalal",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
